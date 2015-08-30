@@ -2,7 +2,7 @@
 # $interface = "1.0"
 
 # This is the command that changes the 'show' commands to set as opposed to XML
-# It also turns off the pager to not have to hit space bar
+# It also turns off the pager to not have to hit space bar. 
 
 def Main():
 	crt.Screen.Synchronous = True
