@@ -1,7 +1,7 @@
 ﻿# $language = "python"
 # $interface = "1.0"
 
-# show running configuration on Fortigate
+# show running configuration on Fortigate in a readable manner
 
 def Main():
 	crt.Screen.Synchronous = True
